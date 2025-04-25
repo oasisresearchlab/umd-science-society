@@ -1,3 +1,8 @@
+# About
+
+Hello world! Welcome to the shared resource for UMD's Center for Science and Society!
+
+We are currently under construction, but will have more here soon!
 # Obsidian / Quartz / GitHub Pages Template
 
 Deployed URL: https://defenderofbasic.github.io/obsidian-quartz-template

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/discourse-graph/knowledge infrastructures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "knowledge infrastructures"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/discourse-graph/knowledge infrastructures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for knowledge infrastructures"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/discourse-graph/knowledge infrastructures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from knowledge infrastructures"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/discourse-graph/knowledge infrastructures.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of knowledge infrastructures"
             }
           }
         ]
@@ -170,6 +170,17 @@
   },
   "active": "03e86be059e864ee",
   "lastOpenFiles": [
+    "source/content/readings/Some note.md",
+    "source/content/people-projects/index.md",
+    "source/content/people-projects/Zubin Jelveh.md",
+    "source/content/people-projects/Irene Pasquetto.md",
+    "source/content/people-projects/Joel Chan.md",
+    "source/content/discourse-graph/knowledge infrastructures.md",
+    "source/content/people-projects",
+    "source/content/Untitled.md",
+    "source/content/discourse-graph",
+    "source/content/index.md",
+    "source/content/readings/index.md",
     "README.md"
   ]
 }
